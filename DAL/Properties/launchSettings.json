@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DAL": {
+      "commandName": "Executable",
+      "executablePath": "D:\\EFCore5SQLiteCLRTest\\bin\\DAL.Interop.Test.exe",
+      "workingDirectory": "D:\\EFCore5SQLiteCLRTest\\bin\\",
+      "nativeDebugging": true
+    }
+  }
+}
